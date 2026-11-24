@@ -1,7 +1,7 @@
 # cpp-password-generator
 A simple password generator built with C++
 
-Features
+# Features
 
 Generates random passwords.
 
@@ -9,13 +9,13 @@ Custom password length.
 
 Uses letters, numbers and special characters.
 
-Technologies
+# Technologies
 
 C++
 
 Standard Library (iostream, string, random)
 
-How to use
+# How to use
 
 Compile the main.cpp file.
 
@@ -25,6 +25,6 @@ Enter the desired password length.
 
 Receive your generated password.
 
-Purpose
+# Purpose
 
 This is my first C++ project, created to practice programming fundamentals, random number generation and string manipulation.
